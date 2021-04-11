@@ -44,9 +44,10 @@
      inkscape:cx="91.36509"
      inkscape:cy="16.871967"
      inkscape:window-x="1502"
-     inkscape:window-y="599"
+     inkscape:window-y="571"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g36" />
+     inkscape:current-layer="g36"
+     inkscape:document-rotation="0" />
   <g
      fill="white"
      id="g36">
@@ -82,13 +83,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:22.3436px;line-height:1.25;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1.8759"
-       x="1.0438889"
+       x="0.70668459"
        y="17.696674"
        id="text48"
-       transform="scale(0.92237871,1.0841534)"><tspan
+       transform="scale(0.9223787,1.0841534)"><tspan
          sodipodi:role="line"
          id="tspan46"
-         x="1.0438889"
+         x="0.70668459"
          y="17.696674"
          style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:22.3436px;font-family:'Apple SD Gothic Neo';-inkscape-font-specification:'Apple SD Gothic Neo, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff6600;stroke-width:1.8759">Kentstrapper</tspan></text>
   </g>
