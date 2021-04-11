@@ -4073,7 +4073,7 @@ msgstr ""
 
 #: /mnt/projects/ultimaker/cura/Cura/resources/qml/WelcomePages/AddNetworkOrLocalPrinterContent.qml:90
 msgctxt "@label"
-msgid "Add a non-networked printer"
+msgid "Add a local printer"
 msgstr ""
 
 #: /mnt/projects/ultimaker/cura/Cura/resources/qml/WelcomePages/WhatsNewContent.qml:28
